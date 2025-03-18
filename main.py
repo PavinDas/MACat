@@ -33,8 +33,13 @@ class MacChanger:
     def main():
         subprocess.run("ifconfig", shell=True)
         iface = input("Enter Interface: ")
-        new_mac = input("Enter New MAC Address: ")
-        MacChanger.changeMac(iface, new_mac)
+        
+        with open("addresses.txt", "r") as f:
+            lines = f.readlines()
+            for line in lines:
+                line = line.split(" ")[-1]
+                MacChanger.changeMac(iface, line)
+                time.sleep(5)
         MacChanger.main();
 
 if __name__ == "__main__":
