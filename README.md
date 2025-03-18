@@ -2,7 +2,7 @@
 
 A Python script to change the MAC address of a network interface on a Linux system. This tool is useful for network testing, privacy, or troubleshooting.
 
-<img src="https://socialify.git.ci/PavinDas/WiFried/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="Socket" width="640" height="320" />
+<img src="https://socialify.git.ci/PavinDas/MACat/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="Socket" width="640" height="320" />
 
 ---
 
