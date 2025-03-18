@@ -1,0 +1,100 @@
+00:00:0C (Cisco Systems): 00:00:0C:12:34:56
+00:01:43 (Dell Inc.): 00:01:43:AB:CD:EF
+00:04:EA (Hewlett Packard): 00:04:EA:78:9A:BC
+00:05:5D (D-Link Systems): 00:05:5D:DE:F0:12
+00:07:E9 (Intel Corporation): 00:07:E9:34:56:78
+00:0A:5E (Juniper Networks): 00:0A:5E:9A:BC:DE
+00:0D:3A (Microsoft Corporation): 00:0D:3A:12:34:56
+00:10:18 (Broadcom): 00:10:18:AB:CD:EF
+00:14:22 (Dell Inc.): 00:14:22:78:9A:BC
+00:16:17 (Lenovo): 00:16:17:DE:F0:12
+00:18:F3 (ASUSTek): 00:18:F3:34:56:78
+00:1A:11 (Google Inc.): 00:1A:11:9A:BC:DE
+00:1C:C0 (TP-Link): 00:1C:C0:12:34:56
+00:1D:BA (Sony Corporation): 00:1D:BA:AB:CD:EF
+00:1E:C7 (NVIDIA): 00:1E:C7:78:9A:BC
+00:20:7B (IBM): 00:20:7B:DE:F0:12
+00:24:D7 (Intel Corporate): 00:24:D7:34:56:78
+00:26:BB (Apple Inc.): 00:26:BB:9A:BC:DE
+00:30:48 (Supermicro): 00:30:48:12:34:56
+00:50:56 (VMware Inc.): 00:50:56:AB:CD:EF
+00:60:08 (3Com): 00:60:08:78:9A:BC
+00:80:C8 (Netgear): 00:80:C8:DE:F0:12
+00:A0:CC (Liteon): 00:A0:CC:34:56:78
+00:D0:59 (Ambit Microsystems): 00:D0:59:9A:BC:DE
+00:E0:4C (Realtek): 00:E0:4C:12:34:56
+00:0F:EA (Gigabyte): 00:0F:EA:AB:CD:EF
+00:14:5F (Huawei): 00:14:5F:78:9A:BC
+00:18:31 (Samsung): 00:18:31:DE:F0:12
+00:1B:21 (TP-Link): 00:1B:21:34:56:78
+00:1F:C6 (ASRock): 00:1F:C6:9A:BC:DE
+00:24:1D (G-Pro Computer): 00:24:1D:12:34:56
+00:25:00 (Apple Inc.): 00:25:00:AB:CD:EF
+00:26:18 (Motorola): 00:26:18:78:9A:BC
+00:27:0E (Intel Corporate): 00:27:0E:DE:F0:12
+00:2A:AF (Zyxel): 00:2A:AF:34:56:78
+00:40:8C (Axis Communications): 00:40:8C:9A:BC:DE
+00:50:FC (Edimax): 00:50:FC:12:34:56
+00:60:1D (Lucent): 00:60:1D:AB:CD:EF
+00:80:77 (Brother Industries): 00:80:77:78:9A:BC
+00:A0:D1 (Linksys): 00:A0:D1:DE:F0:12
+00:B0:D0 (Dell Inc.): 00:B0:D0:34:56:78
+00:C0:4F (Dell Inc.): 00:C0:4F:9A:BC:DE
+00:D0:BC (Cisco Systems): 00:D0:BC:12:34:56
+00:E0:18 (ASUSTek): 00:E0:18:AB:CD:EF
+00:FC:58 (WebSilicon): 00:FC:58:78:9A:BC
+04:18:D6 (Ubiquiti Networks): 04:18:D6:DE:F0:12
+08:00:20 (Sun Microsystems): 08:00:20:34:56:78
+10:BF:48 (TP-Link): 10:BF:48:9A:BC:DE
+14:CC:20 (TP-Link): 14:CC:20:12:34:56
+18:66:DA (Dell Inc.): 18:66:DA:AB:CD:EF
+1C:69:7A (Cisco Systems): 1C:69:7A:78:9A:BC
+20:CF:30 (ASUSTek): 20:CF:30:DE:F0:12
+24:5E:BE (QNAP Systems): 24:5E:BE:34:56:78
+28:10:7B (D-Link): 28:10:7B:9A:BC:DE
+2C:33:7A (Apple Inc.): 2C:33:7A:12:34:56
+30:5A:3A (ASUS): 30:5A:3A:AB:CD:EF
+34:17:EB (Dell Inc.): 34:17:EB:78:9A:BC
+38:D5:47 (HP Inc.): 38:D5:47:DE:F0:12
+3C:97:0E (Wistron): 3C:97:0E:34:56:78
+40:16:7E (ASUSTek): 40:16:7E:9A:BC:DE
+44:37:E6 (Hon Hai Precision): 44:37:E6:12:34:56
+48:4D:7E (Dell Inc.): 48:4D:7E:AB:CD:EF
+4C:CC:6A (Micro-Star INT'L): 4C:CC:6A:78:9A:BC
+50:7B:9D (Netgear): 50:7B:9D:DE:F0:12
+54:EE:75 (Cisco Systems): 54:EE:75:34:56:78
+5C:51:88 (Motorola): 5C:51:88:9A:BC:DE
+60:14:66 (ZTE Corporation): 60:14:66:12:34:56
+64:00:6A (Dell Inc.): 64:00:6A:AB:CD:EF
+68:05:CA (Intel Corporate): 68:05:CA:78:9A:BC
+6C:2B:59 (Dell Inc.): 6C:2B:59:DE:F0:12
+70:5A:0F (HP Inc.): 70:5A:0F:34:56:78
+74:D4:35 (Gigabyte): 74:D4:35:9A:BC:DE
+78:24:AF (ASUSTek): 78:24:AF:12:34:56
+7C:05:07 (Pegatron): 7C:05:07:AB:CD:EF
+80:00:6E (Apple Inc.): 80:00:6E:78:9A:BC
+84:2B:2B (Dell Inc.): 84:2B:2B:DE:F0:12
+88:66:5A (Dell Inc.): 88:66:5A:34:56:78
+90:B1:1C (Dell Inc.): 90:B1:1C:9A:BC:DE
+94:65:9C (TP-Link): 94:65:9C:12:34:56
+98:DA:92 (Vivotek Inc.): 98:DA:92:AB:CD:EF
+9C:EB:15 (Zyxel): 9C:EB:15:78:9A:BC
+A0:36:9F (Cisco Meraki): A0:36:9F:DE:F0:12
+A4:4C:11 (ASUSTek): A4:4C:11:34:56:78
+A8:60:B6 (Apple Inc.): A8:60:B6:9A:BC:DE
+AC:BC:32 (Apple Inc.): AC:BC:32:12:34:56
+B0:83:FE (Dell Inc.): B0:83:FE:AB:CD:EF
+B4:AE:2B (Microsoft): B4:AE:2B:78:9A:BC
+B8:CA:3A (Dell Inc.): B8:CA:3A:DE:F0:12
+BC:5F:F4 (ASRock): BC:5F:F4:34:56:78
+C0:25:5C (TP-Link): C0:25:5C:9A:BC:DE
+C4:34:6B (HP Inc.): C4:34:6B:12:34:56
+C8:0A:A9 (Quanta Computer): C8:0A:A9:AB:CD:EF
+CC:2D:21 (Tenda): CC:2D:21:78:9A:BC
+D0:17:C2 (ASUSTek): D0:17:C2:DE:F0:12
+D4:BE:D9 (Dell Inc.): D4:BE:D9:34:56:78
+D8:CB:8A (Micro-Star INT'L): D8:CB:8A:9A:BC:DE
+DC:A9:04 (Apple Inc.): DC:A9:04:12:34:56
+E0:D5:5E (Huawei): E0:D5:5E:AB:CD:EF
+E4:F4:C6 (Netgear): E4:F4:C6:78:9A:BC
+F0:79:59 (ASUSTek): F0:79:59:DE:F0:12
