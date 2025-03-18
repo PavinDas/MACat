@@ -49,4 +49,21 @@ class MacChanger:
         MacChanger.main();
 
 if __name__ == "__main__":
+    banner = """\
+    ██████   ██████   █████████     █████████             █████   
+    ░░██████ ██████   ███░░░░░███   ███░░░░░███           ░░███    
+    ░███░█████░███  ░███    ░███  ███     ░░░   ██████   ███████  
+    ░███░░███ ░███  ░███████████ ░███          ░░░░░███ ░░░███░   
+    ░███ ░░░  ░███  ░███░░░░░███ ░███           ███████   ░███    
+    ░███      ░███  ░███    ░███ ░░███     ███ ███░░███   ░███ ███
+    █████     █████ █████   █████ ░░█████████ ░░████████  ░░█████ 
+    ░░░░░     ░░░░░ ░░░░░   ░░░░░   ░░░░░░░░░   ░░░░░░░░    ░░░░░  
+    """
+    print(f"{Fore.LIGHTRED_EX}{banner}{Style.RESET_ALL}")
+    print()
+    print(f"{Fore.RED}{Style.BRIGHT}[+]  Creator    :  Pavin Das{Style.RESET_ALL}")
+    print(f"{Fore.RED}{Style.BRIGHT}[+]  GitHub     :  PavinDas{Style.RESET_ALL}")
+    print(f"{Fore.RED}{Style.BRIGHT}[+]  Instagram  :  pavin__das{Style.RESET_ALL}")
+    print()
+    print()
     MacChanger.main()
