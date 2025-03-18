@@ -1,6 +1,9 @@
 import subprocess
 import re
 import time
+from colorama import init, Fore, Style
+
+init()
 
 class MacChanger:
 
@@ -14,26 +17,29 @@ class MacChanger:
     
     def changeMac(iface, new_mac):
 
-        print("[+] Current MAC Addres: " + MacChanger.getMac(iface))
-        print("[+] Changing MAC Address to: " + new_mac)
-        print("[+] Changing MAC Address...")
-
+        print(f"{Fore.CYAN}[+] Current MAC Address: {Fore.GREEN}" + MacChanger.getMac(iface) + f"{Style.RESET_ALL}")
+        print(f"{Fore.CYAN}[+] Changing MAC Address to: {Fore.YELLOW}" + new_mac + f"{Style.RESET_ALL}")
+        print(f"{Fore.CYAN}[+] Changing MAC Address...{Style.RESET_ALL}")
+        print()
         subprocess.run(f"ifconfig {iface} down", shell=True)
         change_result = subprocess.run(f"ifconfig {iface} hw ether {new_mac}", shell=True, capture_output=True) 
         if change_result.returncode != 0:
-            print("[!] Failed to change MAC Address. Possible issue with address format or interface.")
+            print(f"{Fore.RED}[!] Failed to change MAC Address. Possible issue with address format or interface.{Style.RESET_ALL}")
             subprocess.run(f"ifconfig {iface} up", shell=True)
             return
         subprocess.run(f"ifconfig {iface} up", shell=True)
 
-        print("[+] New MAC Address: " + MacChanger.getMac(iface))
-        print("[+] Done!")
+        print(f"{Fore.CYAN}[+] New MAC Address: {Fore.GREEN}" + MacChanger.getMac(iface) + f"{Style.RESET_ALL}")
+        print(f"{Fore.CYAN}[+] Done!{Style.RESET_ALL}")
+        print()
+        print()
+
 
         
     def main():
         subprocess.run("ifconfig", shell=True)
         iface = input("Enter Interface: ")
-        
+
         with open("addresses.txt", "r") as f:
             lines = f.readlines()
             for line in lines:
