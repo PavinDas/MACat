@@ -100,15 +100,3 @@ Enter Interface: wlan0
 ## Disclaimer 
 
 This tool is intended for educational and ethical purposes only. The author is not responsible for any misuse or damage caused by this software.
-
---- 
-
-## How to Use This README
-
-```bash
-1. Save the content above as `README.md` in your project directory.
-2. Customize the sections (e.g., author details, license) as needed.
-3. Push the file to your GitHub repository or include it in your project distribution.
-
-This README provides a professional and comprehensive overview of your project, making it easier for users to understand and use your tool.
-```
